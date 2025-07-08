@@ -28,7 +28,6 @@ Clear-Host
 
 Write-Host ""
 Write-Host ""
-Write-Host -ForegroundColor Red " Tranquilo joven usuario, estas en manos de los expertos. "
 Write-Host ""
 
 # ASCII ART (CORREGIDO)
@@ -41,9 +40,8 @@ Write-Host -ForegroundColor Cyan " // |||_| \_\_____|_| |_|_____|_|  |_|    |___
 Write-Host -ForegroundColor Cyan " // >>================================================<<"
 
 Write-Host ""
-Write-Host -ForegroundColor Cyan "Juro que voy a respetar esta SS Tool creada por REHEM, te agradezco por pasarla."
+Write-Host -ForegroundColor Cyan "BAM check."
 Write-Host ""
-Write-Host -ForegroundColor DarkGreen "GG ESTAS ESTAS OCUPANDO UNA REHEM SS"
 Write-Host ""
 Write-Host ""
 
